@@ -1,6 +1,6 @@
 ---
 name: Hackweek scheduling template
-description: Standardizes hackweek tutorial schedule planning using a project board.
+about: Standardizes hackweek tutorial schedule planning using a project board.
 ---
 
 **Lead:**
